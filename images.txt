@@ -1,4 +1,4 @@
 nginx
 nextcloud:latest
 mariadb:10.6
-https://mirrors.163.com/docker-ce/linux/centos/
+docker-ce-stable
