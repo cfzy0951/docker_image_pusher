@@ -2,3 +2,4 @@ nginx
 nextcloud:latest
 docker
 Kubernetes
+Elasticsearch
