@@ -1,4 +1,4 @@
--name: Build and push image Aliyun
+- name: Build and push image Aliyun
   run: |
     bash << 'EOF'
     set -euo pipefail
